@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "net.stellatedgoose.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MeowMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

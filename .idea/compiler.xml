@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="meowsatyou-1.21.10" options="-AoutRefMapFile=$PROJECT_DIR$/meowsatyou-1.21.10/build/classes/java/client/client-meowsatyou-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=$PROJECT_DIR$/meowsatyou-1.21.10/build/loom-cache/mixin-map-net.fabricmc.yarn.1_21_10.1.21.10+build.2-v2.client.tiny -AinMapFileNamedIntermediary=$USER_HOME$/.gradle/caches/fabric-loom/1.21.10/net.fabricmc.yarn.1_21_10.1.21.10+build.2-v2/mappings.tiny" />
+      <module name="meowsatyou-1.21.10.client" options="-AoutRefMapFile=$PROJECT_DIR$/meowsatyou-1.21.10/build/classes/java/client/client-meowsatyou-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=$PROJECT_DIR$/meowsatyou-1.21.10/build/loom-cache/mixin-map-net.fabricmc.yarn.1_21_10.1.21.10+build.2-v2.client.tiny -AinMapFileNamedIntermediary=$USER_HOME$/.gradle/caches/fabric-loom/1.21.10/net.fabricmc.yarn.1_21_10.1.21.10+build.2-v2/mappings.tiny" />
+      <module name="meowsatyou-1.21.10.main" options="-AoutRefMapFile=$PROJECT_DIR$/meowsatyou-1.21.10/build/classes/java/main/meowsatyou-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=$PROJECT_DIR$/meowsatyou-1.21.10/build/loom-cache/mixin-map-net.fabricmc.yarn.1_21_10.1.21.10+build.2-v2.main.tiny -AinMapFileNamedIntermediary=$USER_HOME$/.gradle/caches/fabric-loom/1.21.10/net.fabricmc.yarn.1_21_10.1.21.10+build.2-v2/mappings.tiny" />
+      <module name="meowsatyou-1.21.10.test" options="-AoutRefMapFile=$PROJECT_DIR$/meowsatyou-1.21.10/build/classes/java/test/test-meowsatyou-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=$PROJECT_DIR$/meowsatyou-1.21.10/build/loom-cache/mixin-map-net.fabricmc.yarn.1_21_10.1.21.10+build.2-v2.test.tiny -AinMapFileNamedIntermediary=$USER_HOME$/.gradle/caches/fabric-loom/1.21.10/net.fabricmc.yarn.1_21_10.1.21.10+build.2-v2/mappings.tiny" />
+    </option>
+  </component>
+</project>
